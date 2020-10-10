@@ -18,6 +18,7 @@ Jsp/Spring Framework 4.2.4 RELEASE로 AOP 구현하기 (Java, Context config 방
 ##### (It introduces how to implement AOP supported by Spring-Framework in Java, Context.xml method.)
 
 ### 2. 시연(Demonstration)
+##### 1. Spring Framework 4.2.4, Java - Context Config, AOP 적용, https://youtu.be/ZSEC8Y5kY9Q, Accessed by 2020-10-10, Last Modified 2020-10-10.
 
 ### 3. 참고자료(Reference)
 ##### 1. Maven Repository: Search/Browse/Explore, https://mvnrepository.com/, Accessed by 2020-09-24, Last Modified .
